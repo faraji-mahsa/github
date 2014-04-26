@@ -9,6 +9,7 @@ public class eclipseclass {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Do you know java ?");
+		System.out.println("How to write programm with eclips?");
 
 	}
 
